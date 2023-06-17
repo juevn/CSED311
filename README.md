@@ -8,5 +8,5 @@ Lab1. RTL Design
 Lab2. Single Cycle CPU  
 Lab3. Multi Cycle CPU  
 Lab 4-1. pipelined CPU without control  
-Lab 4-2. pipelined CPU with control flow instr  
+Lab 4-2. pipelined CPU with control flow instruction
 Lab 5. Cache
